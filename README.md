@@ -1,3 +1,3 @@
-#storage
+# storage
 
 ファイル置き場
